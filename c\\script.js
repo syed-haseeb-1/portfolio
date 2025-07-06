@@ -14,7 +14,7 @@
             <p class="tagline">Aspiring Web Developer | Creative Thinker | Lifelong Learner</p>
             <div class="social-links">
                 <a href="mailto:your.email@example.com" title="Email">📧</a>
-                <a href="https://github.com/your-username" title="GitHub" target="_blank">🐙</a>
+                <a href="https://github.com/your-username" title="GitHub" target="_blank"></a>
                 <a href="https://linkedin.com/in/your-linkedin" title="LinkedIn" target="_blank">💼</a>
             </div>
         </div>
